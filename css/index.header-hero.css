@@ -1,0 +1,9 @@
+.header__title {
+  font-size: 30px;
+
+  span {
+    color: var(--hightlight-color);
+  }
+}
+
+
